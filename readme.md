@@ -1,3 +1,3 @@
 # C lessons
 ### C++ lessons and labs
-### ветка main
+### ветка main+dev
